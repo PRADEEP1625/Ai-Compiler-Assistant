@@ -71,7 +71,7 @@ ai-compiler-assistant/
 
 PowerShell:
 ```powershell
-$env:OPENROUTER_API_KEY="your-openrouter-key-here"
+$env:OPENROUTER_API_KEY="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"
 
 # check it's set:
 echo $env:OPENROUTER_API_KEY
